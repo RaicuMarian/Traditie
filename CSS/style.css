@@ -1,0 +1,362 @@
+
+body, html {
+	margin: 0;
+	padding:0;
+	background-color: #f2f2f2;
+	font-family: Nunito,sans-serrif;
+	height: 100%;
+	color: #404040;
+}
+
+.culoareFundal{
+	background: linear-gradient(#f2f2f2, #ffff33 );
+}
+
+p {
+	font-size: 1.3em;
+}
+
+.curent {
+	border-bottom: 3px solid #669999;
+}
+
+/*parallax*/
+
+.parallax{
+	background:url("../Imagini/masinacusut2.jpeg");
+	height: 85vh;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+/* Logo */
+
+.logo {
+	color: #ffbf00;
+	letter-spacing: 3.5px;
+	line-height: 4em;
+	font-weight: bold;
+	font-size: 1.5em;
+	font-family: Lobster;
+	text-shadow: 3px 3px 3px #000099 ;
+	padding-top: 100px
+}
+
+
+.logo p {
+	margin-top: -30px;
+}
+
+/* Meniu (NAV)*/ 
+
+body, html {
+	margin: 0;
+	padding:0;
+	background-color: #f2f2f2;
+	font-family: Nunito,sans-serrif;
+	height: 100%;
+	color: #404040;
+}
+
+
+.meniuprincipal{
+	border: 15px solid transparent;
+	border-image: url(../Imagini/primapoza.jpeg) 110 repeat;
+	border-left: 0;
+	border-right: 0;
+	padding: 6px 0 5px 0;
+}
+
+.navbar-nav{
+	text-align: center;
+}
+
+.navbar-collapse a{
+	margin-bottom: 2px;
+}
+
+.navbar-nav a {
+	text-decoration: none;
+	padding:12px 30px 10px 50px;
+	margin-right: 2px;
+	background-color: #ffff80;
+	color: #669999;
+	border-radius: 10px;
+}
+
+.navbar-nav a:hover {
+	border-bottom: 3px solid #669999;
+}
+
+.curent {
+	border-bottom: 3px solid #669999;
+}
+
+
+@media screen and (max-width: 480px){
+	.meniuprincipal{
+	border: 7px solid transparent;
+	border-image: url(../Imagini/primapoza.jpeg) 110 repeat;
+	border-left: 0;
+	border-right: 0;
+	padding: 6px 0 5px 0;
+}
+
+}
+
+/*Continut Acasa*/
+
+#despreNoi {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+#despreNoi h1{
+	border-bottom: 3px solid #669999;
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: 50px;
+}
+
+
+.subtitlu {
+	border-bottom: 3px solid #669999;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+
+.Imagine {
+	border-radius: 50px;
+	box-shadow: 0 10px 15px -6px #777;
+
+}
+
+/* Galerie */
+
+.continutPrincipalGalerieFoto{
+	margin-top: 150px;
+
+}
+
+.otreime {
+	width: 29%;
+	float: left;
+	margin: 2%;
+}
+
+.container{
+	max-width: 1200px;
+	margin:0 auto;
+	height: 240vh;
+	background-color: #ffffe6;
+	border-radius: 15px;
+	padding: 10px;
+	box-shadow: 0 10px 15px -6px #777;
+}
+
+.continutPrincipalGalerieFoto h1{
+	width:96vw;
+	margin: 0 auto;
+	
+}
+
+.cardFoto{
+	background-color: #ffffe6;
+	border-radius: 15px;
+	padding: 10px;
+	box-shadow: 0 10px 15px -6px #777; 
+}
+
+.continutPrincipalGalerieFoto img{
+	display: block;
+	max-width: 100%;
+	height: auto;
+	width: auto;
+}
+
+.continutPrincipalGalerieFoto img:hover{
+	opacity: 0.8;
+}
+
+/* Galerie Mediaquery */
+
+@media screen and (max-width: 768px){
+	.otreime{
+		width: 48%;
+		margin: 1%;
+	}
+}
+
+@media screen and (max-width: 480px){
+	.otreime{
+		width: 98%;
+		margin: 1%;
+	}
+}
+
+
+/* Contact */
+
+.continutPrincipalContact{
+	margin-top: 160px;
+	text-align: center;
+}
+
+.continutPrincipalContact h1{
+	border-bottom: 3px solid #669999;
+	display: inline-block;
+	font-weight: bold;
+}
+
+
+.formularDetalii{
+	text-align: left;
+	padding: 25px 50px 20px 50px;
+}
+
+.subtitluDetalii{
+	margin-bottom: 40px;
+	text-align: left;
+}
+
+.subtitluDetalii h1 {
+	display: block;
+}
+
+.formularDetalii label{
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.formularDetalii textarea{
+	width: 100%;
+}
+
+.harta{
+	background-color: #ffffe6;
+	width: 95%;
+	height: 80vh;
+	margin: 0 auto;
+	border-radius: 15px;
+	padding:40px 0 25px 0;
+	margin-left: auto;
+}
+
+.cardContact{
+	background-color: #ffffe6;
+	border-radius: 15px;
+	padding:40px 0 25px 0;
+	margin-bottom: 20px;
+	box-shadow: 0 10px 15px -6px #777; 
+}
+
+.numarDeTelefon h2{
+	display: inline-block;
+	border-radius: 15px;
+	padding: 20px 15px 20px 15px;
+	margin: 20px 0 20px 0;
+}
+
+.numarDeTelefon h2:hover{
+	background-color: #ffff80;
+	transition: 1s;
+}
+
+.butonTelefon{
+	padding-top: 0 15px 0 15px;
+}
+
+.adresaemail h2{
+	display: inline-block;
+	border-radius: 15px;
+	padding: 20px 15px 20px 15px;
+	margin: 20px 0 20px 0;
+}
+
+.adresaemail h2:hover{
+	background-color: #ffff80;
+	transition: 1s;
+}
+
+.facebook h2{
+	display: inline-block;
+	border-radius: 15px;
+	margin: 20px 0 20px 0;
+	font-size: 5em;
+}
+
+.facebook a{
+	text-decoration: none;
+	color: inherit;
+}
+
+.facebook h2:hover{
+	color: #3b5998;
+	transition: 1s;
+}
+
+/* Contact media*/
+
+@media screen and (max-width: 768px) {
+		.formularDetalii{
+		text-align: left;
+		padding: 5px 10px 4px 10px;
+	}
+
+		.Imagine{
+			margin-top: 20px;
+		}
+}
+
+/* Continut Ajuta-ne */
+
+.continutPrincipalAjuta-ne{
+	margin-top: 160px;
+}
+
+.text{
+	background-color: #ffffe6;
+	padding: 50px;
+	border-radius: 15px;
+	box-shadow: 0 10px 15px -6px #777;
+}
+
+.judete {
+	margin-top: 50px;
+	background-color: #ffffe6;
+	border-radius: 15px;
+	padding: 50px;
+	margin-bottom: 20px;
+	box-shadow: 0 10px 15px -6px #777;
+}
+
+#subtitlulistajudete {
+	font-weight: bold;
+}
+
+#subtitlutextarea {
+	font-weight: bold;
+	margin-top: 60px;
+}
+
+.butonTrimite {
+	margin-bottom: 20px;
+}
+
+#confirmare{
+	display: none;
+}
+
+/* Ajuta-ne media*/
+
+@media screen and (max-width: 768px) {
+	.text{
+		padding: 10px;
+	}
+	.judete{
+		padding: 10px;
+	}
+}

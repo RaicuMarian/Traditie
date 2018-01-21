@@ -1,0 +1,567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"md",
+				"col-md-4"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"background",
+				"background-attachment"
+			],
+			[
+				"margon",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"margin-o",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"b",
+				"rgba()"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"backd",
+				"background-color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"trans",
+				"transboxdark"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"n",
+				"noastra"
+			],
+			[
+				"f",
+				"fieldset\tTag"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"de",
+				"Despre"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"data",
+				"datalist\tTag"
+			],
+			[
+				"type",
+				"list-style-type"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"s",
+				"transparent"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"m",
+				"mancare"
+			],
+			[
+				"mai",
+				"mailto"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fast-food",
+				"fast-food"
+			],
+			[
+				"inre",
+				"inregistreaza-te"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"bg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "age ",
+		"selected_items":
+		[
+			[
+				"age ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Asaga2/Desktop/New folder/traditie/JS/galerie.js",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/CSS/style.css",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/HTML/Ajuta-ne.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/HTML/Contact.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/HTML/GalerieFoto.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/HTML/inde2x.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/Galerie/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/Galerie/survey.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/Galerie/style.css",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/RG/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/Vlog de it/css/style.css",
+		"/C/Users/Asaga2/Desktop/New folder/Vlog de it/contact.php",
+		"/C/Users/Asaga2/Desktop/New folder/Vlog de it/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/css/style.css",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/Asaga2/Desktop/New folder/Traversy Media/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/gradient.html",
+		"/C/Users/Asaga2/Desktop/New folder/Galerie/index.html",
+		"/C/Users/Asaga2/AppData/Local/Temp/Rar$EXa0.018/index.html",
+		"/C/Users/Asaga2/AppData/Local/Temp/Rar$EXa0.687/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/Proiecte/traditie/HTML/Contact.html",
+		"/C/Users/Asaga2/Desktop/New folder/Proiecte/traditie/HTML/GalerieFoto.html",
+		"/C/Users/Asaga2/Desktop/New folder/Proiecte/traditie/HTML/inde2x.html",
+		"/C/Users/Asaga2/Desktop/New folder/Proiecte/traditie/HTML/Ajuta-ne.html",
+		"/C/Users/Asaga2/AppData/Local/Temp/Rar$EXa0.777/index.html",
+		"/C/Users/Asaga2/AppData/Local/Temp/Rar$DIa0.482/lity.css",
+		"/C/Users/Asaga2/AppData/Local/Temp/Rar$DIa0.788/bootstrap.css",
+		"/C/Users/Asaga2/Desktop/New folder/animicons/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/HTML/DespreNoi.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/CSS/GalerieFoto.html",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/style.css",
+		"/C/Users/Asaga2/Desktop/New folder/traditie/inde2x.html",
+		"/C/Users/Asaga2/Desktop/New folder/acme/css/style.css",
+		"/C/Users/Asaga2/Desktop/New folder/style.css",
+		"/C/Users/Asaga2/Desktop/New folder/inde2x.html",
+		"/C/Users/Asaga2/Desktop/New folder/parallaxwebsite/css/style.css",
+		"/C/Users/Asaga2/Desktop/New folder/parallaxwebsite/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/acme/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/Tarife.html",
+		"/C/Users/Asaga2/Desktop/New folder/Contact.html",
+		"/C/Users/Asaga2/Desktop/New folder/acme/about.html",
+		"/C/Users/Asaga2/Desktop/acme/css/style.css",
+		"/C/Users/Asaga2/Desktop/parallaxwebsite/css/style.css",
+		"/C/Users/Asaga2/Desktop/parallaxwebsite/index.html",
+		"/C/Users/Asaga2/Desktop/acme/about.html",
+		"/C/Users/Asaga2/Desktop/acme/services.html",
+		"/C/Users/Asaga2/Desktop/acme/index.html",
+		"/C/Users/Asaga2/Desktop/New folder/A2a pagina.html",
+		"/C/Users/Asaga2/Desktop/New folder/index1.html",
+		"/C/Users/Asaga2/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
